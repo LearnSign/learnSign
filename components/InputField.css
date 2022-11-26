@@ -1,0 +1,22 @@
+.input-field {
+  color: #333;
+  background-color: #fffdf6;
+  border: 2px solid #3ba6f2;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  padding-bottom: 19px;
+  padding-left: 1px;
+  font-family: Quicksand;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 20px;
+  display: flex;
+}
+
+.usernameexamplecom {
+  color: #828282;
+  margin-left: 19px;
+  font-weight: 400;
+}
