@@ -38,10 +38,11 @@ To further develop and maintain our free app, we give the option for users to do
 4. MongoDB
 5. Blender 3.4 Alpha
 6. Unity 3D
-7. Unitear
+7. Unite AR
 8. Figma
 
 # Relevant Links:
 Figma - https://bit.ly/3is9WEr
 Presentation - https://bit.ly/3XNTTB9
 Video Walkthrough - https://www.youtube.com/watch?v=C_pUfpcD--Y
+Jira Board - https://learnsign.atlassian.net/jira/software/projects/SS/boards/1 (request access first)
