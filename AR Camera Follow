@@ -1,0 +1,7 @@
+public Transform target;
+public Vecor3 offset;
+//Update is called once per frame.
+void Update()
+{
+   transform.position = target.position + offset;
+}
